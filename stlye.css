@@ -1,0 +1,186 @@
+.Wow {
+    
+    
+    background: rgb(245, 243, 242);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+      
+}
+
+
+.Wow1{
+    
+    font-family: fantasy;
+    width: 300px;
+    border: 15px solid green;
+    padding: 25px;
+    margin: 20px;
+    background-image: linear-gradient(red ,yellow);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+
+    
+}
+.Wow2{
+    font-family: fantasy;
+    width: 300px;
+    border: 15px solid green;
+    padding: 25px;
+    margin: 20px;
+    background-image: linear-gradient(red ,yellow);
+
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.Wow3{
+    font-family: fantasy;
+    width: 300px;
+    border: 15px solid green;
+    padding: 25px;
+    margin: 20px;
+    background-image: linear-gradient(red ,yellow);
+
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.Wow4{
+    font-family: fantasy;
+    width: 300px;
+    border: 15px solid green;
+    padding: 25px;
+    margin: 20px;
+    background-image: linear-gradient(red ,yellow);
+
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.Wow5{
+    font-family: fantasy;
+    width: 300px;
+    border: 15px solid green;
+    padding: 25px;
+    margin: 20px;
+    background-image: linear-gradient(red ,yellow);
+
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.Index2{
+    background: rgb(43, 233, 9);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+body{
+    background-color: rgb(31, 7, 242);
+}
+
+.level1{
+  
+    background: rgb(249, 247, 245);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+body{
+    background-color: rgb(9, 248, 224);
+}
+.temp1{
+    background: rgb(249, 250, 252);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.temp2{
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.temp3{
+    background: rgb(241, 238, 241);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.pressure1{
+    background: rgb(240, 237, 240);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.pressure2{
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.pressure3{
+    background: rgb(241, 238, 241);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.level2{
+    
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.level3{
+    background: rgb(241, 238, 241);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.Post{
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.Post1{
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.flow{
+    background: rgb(240, 237, 240);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.flow1{
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.flow2{
+    background: rgb(241, 238, 241);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.flow3{
+    background: rgb(241, 238, 241);
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.image3{
+    background-image: url(images/image1.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+}
